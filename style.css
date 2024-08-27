@@ -29,19 +29,12 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
-h2, h3 {
+h1, h2, h3 {
   color: black;
   text-align: justify;
   text-justify: inter-word;
   font-family: Arial, sans-serif;
 }
-}
-h1{
-  color: black;
-  text-align: center;
-  font-family: Arial, sans-serif;
-}
-
 p {
   font-family: Arial, sans-serif;
   font-size: 20px;
