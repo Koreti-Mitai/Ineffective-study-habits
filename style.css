@@ -29,13 +29,7 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
-.hero-image{
-    background-image: url("./images/home/studying_image_by_indianauniversity.jpg") ;
-      height: 636px;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-}
+
 h1, h2, h3 {
   color: black;
   text-align: justify;
