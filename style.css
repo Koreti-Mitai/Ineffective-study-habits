@@ -1,3 +1,7 @@
+img{
+  width: 100%;
+}
+
 .hero-image{
   background-image: url("./images/home/studying_image_by_entryeducation.jpg") ;
   height: 430px;
@@ -5,6 +9,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.two-column{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
 body {
   background-color: white;
 }
