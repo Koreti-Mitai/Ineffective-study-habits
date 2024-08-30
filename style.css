@@ -45,6 +45,14 @@ img{
     margin-top: 40px;
 }
 
+.card{
+    background-color: white(0, 0, 140);
+}
+
+.card-text{
+    text-align: center;
+}
+
 body {
   background-color: white;
 }
