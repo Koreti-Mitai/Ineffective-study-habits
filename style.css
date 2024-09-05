@@ -10,7 +10,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #FFFFFF;
 }
 
 .topnav a {
@@ -164,7 +164,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FFF;
+  background-color: #FFFFFF;
 }
 
 li {
