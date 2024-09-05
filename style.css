@@ -187,7 +187,14 @@ li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
-h1, h2, h3 {
+h3 {
+  color: black;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
   color: black;
   text-align: center;
   text-justify: inter-word;
