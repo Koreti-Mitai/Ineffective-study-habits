@@ -198,11 +198,11 @@ h1, h2 {
   color: black;
   text-align: center;
   text-justify: inter-word;
-  font-family: Impact, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 p {
-  font-family: Impact, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
   color:black;
 }
