@@ -187,7 +187,7 @@ li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
-h3 {
+h3, p {
   color: black;
   text-align: justify;
   text-justify: inter-word;
